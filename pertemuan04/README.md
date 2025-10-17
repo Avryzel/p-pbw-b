@@ -12,4 +12,4 @@
 ---
 
 ## Tampilan Website
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9bcc4671-8119-42a7-8c41-7cbdd0938f42" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2c67d30-0672-49b6-90b3-76048e36d46f" />
